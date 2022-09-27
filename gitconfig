@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexandre_lanna@hotmail.com
+	name = alexandre lanna
